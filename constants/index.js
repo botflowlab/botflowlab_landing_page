@@ -179,5 +179,5 @@ const navLinks = [
   openingHours,
   storeInfo,
   socials,
-  sliderLists,
+  allCocktails,
  };
